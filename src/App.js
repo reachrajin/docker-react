@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload UPDATE UPDATE 2 after Docker Compose.
+          changes on feature
         </p>
         <a
           className="App-link"
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Changed on feature branch
+          Learn React
         </a>
       </header>
     </div>
